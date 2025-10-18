@@ -3,7 +3,7 @@
 ## 📌 Objective
 Analyze 36K+ Airbnb listings in New York City to explore trends in pricing, availability, room types, and host behavior using real-world data.
 
-AIRBNB LISTINGS IN NYC- by Nikhil Poojari.pdf
+[AIRBNB.LISTINGS.IN.NYC-.by.Nikhil.Poojari.pdf](https://github.com/user-attachments/files/22984765/AIRBNB.LISTINGS.IN.NYC-.by.Nikhil.Poojari.pdf)
 
 ## 🔧 Tools & Technologies
 - Python
